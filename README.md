@@ -1,4 +1,4 @@
-![Reminder: Keep Going, Keep Growing](https://i.pinimg.com/736x/50/3c/51/503c518ef2e25ad533de93c19d3ea690.jpg)
+<img src="https://i.pinimg.com/736x/50/3c/51/503c518ef2e25ad533de93c19d3ea690.jpg" alt="Reminder" width="500"/>
 
 # Olá, eu sou a Hannah!👋
 
