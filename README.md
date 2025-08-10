@@ -1,3 +1,5 @@
+![Reminder: Keep Going, Keep Growing](https://pin.it/1mfPCUqqF)
+
 # Olá, eu sou a Hannah!👋
 
 Estudante de Tecnologia da Informação com foco em Quality Assurance, automação, cloud computing e aprendizado contínuo nas diversas etapas do ciclo de desenvolvimento de software. Busco aplicar conhecimentos técnicos e multidisciplinares para entregar qualidade e valor real em projetos.
