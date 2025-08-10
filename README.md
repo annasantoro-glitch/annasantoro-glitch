@@ -4,6 +4,8 @@ Estudante de Tecnologia da Informação com foco em Quality Assurance, automaç�
 
 > _“Gosto de aprender na prática, com projetos reais. Mas antes de tudo, entender a teoria com clareza é essencial.”_
 
+_This profile is also available in [English](README_EN.md)._
+
 ---
 
 ## 🛠️ Habilidades Técnicas
